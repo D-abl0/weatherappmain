@@ -1,6 +1,5 @@
 {
   "name": "weather-app",
-  "homepage": "https://cr1spyvada.github.io/simpleweather-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
